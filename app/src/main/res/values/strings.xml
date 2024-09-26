@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">practical_assignment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="item">
+        <item>Monitor</item>
+        <item>RAM</item>
+        <item>Processor</item>
+        <item>SSD</item>
+        <item>Graphics card</item>
+    </string-array>
+</resources>
